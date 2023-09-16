@@ -5,7 +5,6 @@
   "author": "Hamed Ghoochanian <hamedghoochanian@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/lodash": "^4.14.198",
     "@types/node": "^20.6.1",
     "@typescript-eslint/eslint-plugin": "^6.7.0",
     "@typescript-eslint/parser": "^6.7.0",

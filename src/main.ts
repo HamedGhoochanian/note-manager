@@ -9,7 +9,7 @@ const manager = new NoteManager(fileHandler);
 const printer = new Printer();
 const program = new Command()
   .name('Note Manager')
-  .description('CLI to manage notes')
+  .description('CLI for managing notes')
   .version('1.0.0');
 
 program
